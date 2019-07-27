@@ -115,7 +115,7 @@ We encourage you to contribute to the plugin if you find any issues or missing
 functionality that you'd like to see. In order to get started, see the
 [contribution](CONTRIBUTING.md) guide.
 
-## [People who helped](https://github.com/go-lang-plugin-org/go-lang-idea-plugin/graphs/contributors)
+## [People who helped](https://github.com/surapuramakhil/go-lang-idea-plugin/graphs/contributors)
 
 ## License
 
